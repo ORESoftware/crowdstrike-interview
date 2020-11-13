@@ -6,7 +6,7 @@
 3. Assumes `shasum` program is on path (see: man shasum).
 4. All core modules, no dependencies.
 5. To run `node dist/cli.js`
-4. Writes file to root of project
+4. Writes new csv file to root of project
 
 Thanks :)
 
